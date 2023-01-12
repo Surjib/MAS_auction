@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--МЭИ-->
+<cfg>
+    <Pnom>18.8</Pnom>
+    <maxPrice>150</maxPrice>
+    <load>20</load> <!--H1-->
+    <load>20</load> <!--H2-->
+    <load>20</load> <!--H3-->
+    <load>20</load> <!--H4-->
+    <load>20</load> <!--H5-->
+    <load>20</load> <!--H6-->
+    <load>20</load> <!--H7-->
+    <load>40</load> <!--H8-->
+    <load>60</load> <!--H9-->
+    <load>100</load> <!--H10-->
+    <load>100</load> <!--H11-->
+    <load>100</load> <!--H12-->
+    <load>70</load> <!--H13-->
+    <load>50</load> <!--H14-->
+    <load>50</load> <!--H15-->
+    <load>30</load> <!--H16-->
+    <load>30</load> <!--H17-->
+    <load>30</load> <!--H18-->
+    <load>30</load> <!--H19-->
+    <load>20</load> <!--H20-->
+    <load>20</load> <!--H21-->
+    <load>20</load> <!--H22-->
+    <load>20</load> <!--H23-->
+    <load>20</load> <!--H24-->
+</cfg>
+
+
+
